@@ -15,7 +15,6 @@ Weed is unwanted thing in agriculture. Weed use the nutrients, water ,land and m
 we using our dataset uploaded on [kaggle](https://www.kaggle.com/ravirajsinh45/crop-and-weed-detection-data-with-bounding-boxes).
 This dataset contains 1300 images of sesame crops and different types of weeds with each image labels.
 Each image is a 512 X 512 color image. Labels for images are in YOLO format.
-Data on https://www.kaggle.com/ravirajsinh45/crop-and-weed-detection-data-with-bounding-boxes
 
 # Some images
 ### sesame crop
